@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KrutiKhant
-- 👀 I’m interested in App dev
+- 👀 I’m interested in Application development
 - 🌱 I’m currently learning jetpack 
 - 🌱 Future aim flutter
 <!---
